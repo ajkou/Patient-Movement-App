@@ -1,0 +1,519 @@
+   {
+        "nodes":[
+            {
+                "name":"ACUTE PSYCHIATRY (<45 DAYS)",
+                "LOS":15,
+                "group":"1"
+            },
+            {
+                "name":"BLIND REHAB",
+                "LOS":40,
+                "group":"1"
+            },
+            {
+                "name":"BOARDING HOUSE",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"COMMUNITY HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"COMMUNITY NURSING HOME",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"DEATH WITH AUTOPSY",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"DEATH WITHOUT AUTOPSY",
+                "LOS":8,
+                "group":"2"
+            },
+            {
+                "name":"DOMICILIARY CHV",
+                "LOS":135,
+                "group":"2"
+            },
+            {
+                "name":"DOMICILIARY SUBSTANCE ABUSE",
+                "LOS":69,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISCARDIAC SURGERY",
+                "LOS":10,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISCARDIOLOGY",
+                "LOS":28,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISGEN INTERMEDIATE PSYCH",
+                "LOS":51,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISGENERAL SURGERY",
+                "LOS":147,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISGENERAL(ACUTE MEDICINE)",
+                "LOS":119,
+                "group":"1"
+            },
+            {
+                "name":"FEE BASISHIGH INTENSITY GEN PSYCH INPAT",
+                "LOS":96,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISMEDICAL OBSERVATION",
+                "LOS":1,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISMETABOLIC",
+                "LOS":5,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISNEUROSURGERY",
+                "LOS":36,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISNH LONG-STAY CONTINUING CARE",
+                "LOS":200,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISOB/GYN",
+                "LOS":3,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISORTHOPEDIC",
+                "LOS":112,
+                "group":"2"
+            },
+            {
+                "name":"FEE BASISTHORACIC SURGERY",
+                "LOS":24,
+                "group":"2"
+            },
+            {
+                "name":"GENERAL SURGERY",
+                "LOS":5,
+                "group":"1"
+            },
+            {
+                "name":"GENERAL(ACUTE MEDICINE)",
+                "LOS":4,
+                "group":"1"
+            },
+            {
+                "name":"HIGH INTENSITY GEN PSYCH INPAT",
+                "LOS":14,
+                "group":"2"
+            },
+            {
+                "name":"HOME-BASED PRIMARY CARE (HBPC)",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"HOSPICE CARE",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"INTERMEDIATE MEDICINE",
+                "LOS":2,
+                "group":"2"
+            },
+            {
+                "name":"MEDICAL ICU",
+                "LOS":6,
+                "group":"1"
+            },
+            {
+                "name":"MEDICAL OBSERVATION",
+                "LOS":1,
+                "group":"1"
+            },
+            {
+                "name":"MILITARY HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"NEUROSURGERY",
+                "LOS":7,
+                "group":"2"
+            },
+            {
+                "name":"NH HOSPICE",
+                "LOS":27,
+                "group":"2"
+            },
+            {
+                "name":"NH SHORT STAY REHABILITATION",
+                "LOS":35,
+                "group":"2"
+            },
+            {
+                "name":"NHCU",
+                "LOS":88,
+                "group":"1"
+            },
+            {
+                "name":"OTHER FEDERAL HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"OTHER GOVERNMENT HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"OTHER PLACEMENT/UNKNOWN (NOT SPECIFIED)",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"PENAL INSTITUTION",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"PLASTIC SURGERY",
+                "LOS":4,
+                "group":"2"
+            },
+            {
+                "name":"PM&R TRANSITIONAL REHAB",
+                "LOS":59,
+                "group":"2"
+            },
+            {
+                "name":"POLYTRAUMA REHAB UNIT",
+                "LOS":52,
+                "group":"2"
+            },
+            {
+                "name":"PSYCH RESID REHAB TRMT PROG",
+                "LOS":126,
+                "group":"2"
+            },
+            {
+                "name":"PTSD RESID REHAB PROG",
+                "LOS":59,
+                "group":"2"
+            },
+            {
+                "name":"PTSD RESIDENTIAL REHAB PROG",
+                "LOS":57,
+                "group":"2"
+            },
+            {
+                "name":"REFER MEDICARE HOME HEALTH CARE",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"REFER OTHER AGENCY-PD HOME HEALTH CARE",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"REFER VA-PD HOME/COMMUNITY HEALTH",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"REHABILITATION MEDICINE",
+                "LOS":25,
+                "group":"2"
+            },
+            {
+                "name":"RESIDENTIAL HOTEL/RESIDENT (IE YMCA)",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"RETURN TO COMMUNITY-INDEPENDENT",
+                "LOS":1,
+                "group":"1"
+            },
+            {
+                "name":"SPINAL CORD INJURY",
+                "LOS":26,
+                "group":"1"
+            },
+            {
+                "name":"SUBST ABUSE CWT/TRANS RESID",
+                "LOS":238,
+                "group":"2"
+            },
+            {
+                "name":"SUBSTANCE ABUSE RES TRMT PROG",
+                "LOS":25,
+                "group":"2"
+            },
+            {
+                "name":"SUBSTANCE ABUSE RESID PROG",
+                "LOS":24,
+                "group":"2"
+            },
+            {
+                "name":"SURGICAL ICU",
+                "LOS":5,
+                "group":"1"
+            },
+            {
+                "name":"SURGICAL OBSERVATION",
+                "LOS":1,
+                "group":"1"
+            },
+            {
+                "name":"VA DOMICILLARY",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"VA MEDICAL CENTER",
+                "LOS":7,
+                "group":"2"
+            },
+            {
+                "name":"VA NURSING HOME CARE UNIT (NHCU)",
+                "LOS":0,
+                "group":"1"
+            },
+            {
+                "name":"ANOTHER SOURCES, UNKNOWN OR NO INFO     DOMICILIARY",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"CNH",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"DIRECT ADMISSION FROM ALL OTHER SOURCES     NHCU",
+                "LOS":0,
+                "group":"1"
+            },
+            {
+                "name":"DOMICILIARY",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"FROM VA HOSPITAL     DOMICILIARY",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"HOSPITAL",
+                "LOS":0,
+                "group":"1"
+            },
+            {
+                "name":"MEDICAL STEP DOWN",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"NH LONG-STAY CONTINUING CARE",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"NH SHORT STAY RESTORATIVE",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"OBSERVATION AND EXAMINATION     HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"OTHER DIRECT HOSPITAL",
+                "LOS":0,
+                "group":"1"
+            },
+            {
+                "name":"TRANSFER IN FROM ANOTHER VA HOSPITAL     HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"TRANSFER IN FROM ANY OTHER NON-VA HOSP UNDER VA AUSP HOSPITAL",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"UROLOGY",
+                "LOS":0,
+                "group":"2"
+            },
+            {
+                "name":"VA MEDICAL CENTER     NHCU",
+                "LOS":0,
+                "group":"1"
+            },
+            {
+                "name":"N",
+                "LOS":0,
+                "group":"2"
+            }
+            
+        ],
+        "links":[
+            {
+                "source":70,
+                "target":0,
+                "value":6084
+            },
+            {
+                "source":70,
+                "target":1,
+                "value":1032
+            },
+            {
+                "source":50,
+                "target":13,
+                "value":2376
+            },
+            {
+                "source":65,
+                "target":13,
+                "value":2296
+            },
+            {
+                "source":55,
+                "target":22,
+                "value":2698
+            },
+            {
+                "source":70,
+                "target":22,
+                "value":7567
+            },
+            {
+                "source":28,
+                "target":23,
+                "value":1312
+            },
+            {
+                "source":70,
+                "target":23,
+                "value":14519
+            },
+            {
+                "source":70,
+                "target":29,
+                "value":2643
+            },
+            {
+                "source":62,
+                "target":34,
+                "value":3345
+            },
+            {
+                "source":74,
+                "target":34,
+                "value":1203
+            },
+            {
+                "source":0,
+                "target":50,
+                "value":5096
+            },
+            {
+                "source":1,
+                "target":50,
+                "value":1021
+            },
+            {
+                "source":13,
+                "target":50,
+                "value":4245
+            },
+            {
+                "source":22,
+                "target":50,
+                "value":8388
+            },
+            {
+                "source":23,
+                "target":50,
+                "value":13178
+            },
+            {
+                "source":29,
+                "target":50,
+                "value":2640
+            },
+            {
+                "source":34,
+                "target":50,
+                "value":3700
+            },
+            {
+                "source":51,
+                "target":50,
+                "value":1686
+            },
+            {
+                "source":56,
+                "target":50,
+                "value":2212
+            },
+            {
+                "source":70,
+                "target":51,
+                "value":1609
+            },
+            {
+                "source":70,
+                "target":55,
+                "value":2093
+            },
+            {
+                "source":70,
+                "target":56,
+                "value":2214
+            },
+            {
+                "source":22,
+                "target":59,
+                "value":1028
+            },
+            {
+                "source":23,
+                "target":59,
+                "value":1801
+            }
+            
+        ]
+        
+    }
+	
+
+
+
+
