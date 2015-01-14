@@ -1,7 +1,7 @@
 This is an application to retrospectively visualize the flow of patients through the hospital campus, portrayed in a network of edges and nodes using a D3.js force directed graph 
 
   
-![alt tag](https://github.com/ajkou/Ward-Path-Application/blob/master/D3Image.png)
+![alt tag](https://github.com/ajkou/Patient-Movement-App/blob/master/D3Image.png)
 
 	A majority of but not all paths lead back to the community via normal hospital inpatient discharge. 
 	Other trails quickly leadback to hospitalization, remain in long term care facilities, or 
@@ -30,10 +30,10 @@ To transform this data into a web format, a one-way conversion of tabular data t
 Partway through development, I was temporarily convinced that a web enabled graphical network contained too much technical overhead for a simple operations research problem. I attempted a more immediate visualization technique using the NodeXL Excel Template (Social Media Research Foundation), a packaged MS Office tool to visualize a network in the social sciences. 
 
 Paths passing through the Medical ICU
-![alt tag](https://github.com/ajkou/Ward-Path-Application/blob/master/GraphImage%20MSICU.png)
+![alt tag](https://github.com/ajkou/Patient-Movement-App/blob/master/GraphImage%20MSICU.png)
 
 Paths passing through the Surgical ICU
-![alt tag](https://github.com/ajkou/Ward-Path-Application/blob/master/GraphImage%20SMICU.png)
+![alt tag](https://github.com/ajkou/Patient-Movement-App/blob/master/GraphImage%20SMICU.png)
 
 However, I found this visualization to be inadequeate for a problem of this scope with >60 nodes and high edge density/connectivity, although excessively complex networks were a consistent problem in both visualization attempts. In both situations, techniques to deal with the high complexity included:
  
